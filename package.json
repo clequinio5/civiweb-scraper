@@ -1,0 +1,31 @@
+{
+  "name": "civiweb-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikil592/civiweb-scraper.git"
+  },
+  "keywords": [
+    "scraping",
+    "civiweb",
+    "V.I.E"
+  ],
+  "author": "kikil592",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikil592/civiweb-scraper/issues"
+  },
+  "homepage": "https://github.com/kikil592/civiweb-scraper#readme",
+  "dependencies": {
+    "asciify": "1.3.5",
+    "cheerio": "1.0.0-rc.2",
+    "cli-color": "1.2.0",
+    "moment": "2.20.1",
+    "node-fetch": "2.0.0"
+  }
+}
